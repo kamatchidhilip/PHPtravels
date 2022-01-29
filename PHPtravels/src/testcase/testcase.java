@@ -89,7 +89,7 @@ public void loginphp() throws IOException {
 	login();
 	
 }
-	
+driver.quit();	
 
 	
 }
