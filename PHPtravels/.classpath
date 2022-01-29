@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-16">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/selenium/bson-4.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/freemarker-2.3.31.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/jxl jar/jxl-2.6.12.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/jxl jar/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91861/Downloads/reactive-streams-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91861/Downloads/rxjava-3.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91861/Downloads/selenium-server-standalone-3.5.3.jar" sourcepath="/orangeHRM"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/91861/Downloads/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91861/Downloads/freemarker-2.3.31.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91861/Downloads/jsoup-1.14.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91861/Downloads/sqlite-jdbc-3.36.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91861/Downloads/mongodb-driver-sync-4.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91861/Downloads/extentreports-3.1.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
